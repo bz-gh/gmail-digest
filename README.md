@@ -46,7 +46,7 @@ Once you are confident nothing critical is being missed, delete the daily trigge
 ## Notes
 
 - The archive function processes inbox threads in batches of 100, so even a large inbox will be fully cleared
-- Archived emails remain accessible in Gmail under All Mail — nothing is deleted
+- Archived emails remain accessible in Gmail under All Mail so nothing is deleted
 - Digests are sent before archiving, so if the email send fails the archive step will not run
 - The script uses your Gmail account's timezone for all date formatting
 
