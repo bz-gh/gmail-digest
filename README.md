@@ -4,11 +4,11 @@ A Google Apps Script that sends a digest of unread Gmail inbox emails to any ext
 
 ## Features
 
-- **Daily and weekly digests** — run both during a migration period, drop to weekly once confident
-- **Auto-archive** — clears the inbox after each digest so Gmail stays clean without manual effort
-- **Empty digest** — sends a digest even when there are no unread emails, so you always get a confirmation ping
-- **Spam stays in Gmail** — only pulls from the inbox, so Gmail's spam filter does its job before anything is forwarded
-- **Plain HTML output** — clean, readable digest with sender, subject, date, and a 200-character preview per email
+- **Daily and weekly digests** - run both during a migration period, drop to weekly once confident
+- **Auto-archive** - clears the inbox after each digest so Gmail stays clean without manual effort
+- **Empty digest** - sends a digest even when there are no unread emails, so you always get a confirmation ping
+- **Spam stays in Gmail** - only pulls from the inbox, so Gmail's spam filter does its job before anything is forwarded
+- **Plain HTML output** - clean, readable digest with sender, subject, date, and a 200-character preview per email
 
 ## Setup
 
